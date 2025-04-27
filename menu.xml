@@ -18,6 +18,16 @@
             </menuitem>
         </menu>
     </menuitem>
+    <menuitem label='Exercícios'>
+        <icon>fa:dice fa-fw</icon>
+        <menu>
+            <menuitem label='Clientes'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>ClientesList</action>
+            </menuitem>
+
+        </menu>
+    </menuitem>
     <menuitem label='Configuração'>
         <icon>fa:cog fa-fw</icon>
         <menu>
