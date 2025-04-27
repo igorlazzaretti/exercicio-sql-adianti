@@ -1,8 +1,8 @@
 <menu>
-    <menuitem label="Início">
-      <icon>fas:life-ring fa-fw</icon>
-      <action>WelcomeView</action>
-      <title>Início</title>
+    <menuitem label="SQL">
+      <icon>fas:dice fa-fw</icon>
+      <action>SQLForm</action>
+      <title>Formulário de SQL</title>
       <mobile>Y</mobile>
     </menuitem>
 </menu>

@@ -4,7 +4,7 @@ return [
         'timezone' => 'America/Sao_Paulo',
         'language' => 'pt',
         'application' => 'sqlite',
-        'title' => 'Gemialidades Giacomini',
+        'title' => 'Genialidades Giacomin',
         'theme' => 'adminbs5',
         'debug' => '1',
         'strict_request' => '0'

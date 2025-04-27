@@ -6,6 +6,11 @@
                 <icon>fa:life-ring fa-fw</icon>
                 <action>WelcomeView</action>
             </menuitem>
+
+            <menuitem label='SQL'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQLForm</action>
+            </menuitem>
             
             <menuitem label='Aprenda'>
                 <icon>fa:book fa-fw</icon>
@@ -18,12 +23,99 @@
             </menuitem>
         </menu>
     </menuitem>
+    <menuitem label='Tabelas'>
+        <icon>fa:dice fa-fw</icon>
+        <menu>
+
+            <menuitem label='Clientes'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>Clientes</action>
+            </menuitem>
+
+            <menuitem label='Pedidos'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>Pedidos</action>
+            </menuitem>
+
+            <menuitem label='Produtos'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>Produtos</action>
+            </menuitem>
+
+            <menuitem label='Itens de Pedidos'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>ItensPedido</action>
+            </menuitem>
+
+        </menu>
+    </menuitem>
     <menuitem label='Exercícios'>
         <icon>fa:dice fa-fw</icon>
         <menu>
-            <menuitem label='Clientes'>
+        
+            <menuitem label='Primeira Questão'>
                 <icon>fa:hat-wizard fa-fw</icon>
-                <action>ClientesList</action>
+                <action>SQL1</action>
+            </menuitem>
+
+            <menuitem label='Segunda Questão'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQL2</action>
+            </menuitem>
+
+            <menuitem label='Terceira Questão'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQL3</action>
+            </menuitem>
+
+            <menuitem label='Quarta Questão'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQL4</action>
+            </menuitem>
+
+            <menuitem label='Quinta Questão'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQL5</action>
+            </menuitem>
+
+            <menuitem label='Sexta Questão'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQL6</action>
+            </menuitem>
+
+            <menuitem label='Sétima Questão'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQL7</action>
+            </menuitem>
+
+            <menuitem label='Oitava Questão'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQL8</action>
+            </menuitem>
+
+            <menuitem label='Nona Questão'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQL9</action>
+            </menuitem>
+
+            <menuitem label='Décima Questão'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQL10</action>
+            </menuitem>
+
+            <menuitem label='Décima Primeira Questão'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQL11</action>
+            </menuitem>
+
+            <menuitem label='Décima Segunda Questão'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQL12</action>
+            </menuitem>
+
+            <menuitem label='Décima Terceira Questão'>
+                <icon>fa:hat-wizard fa-fw</icon>
+                <action>SQL13</action>
             </menuitem>
 
         </menu>

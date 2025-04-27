@@ -5,9 +5,9 @@
  * Autor: Igor Dossin Lazzaretti
  */  
 
- use Adianti\Database\TRecord;
+use Adianti\Database\TRecord;
 
-class Clientes extends TRecord
+class Cliente extends TRecord
 {
     const TABLENAME  = 'Clientes';   // nome da tabela no banco
     const PRIMARYKEY = 'id_cliente'; // chave primária

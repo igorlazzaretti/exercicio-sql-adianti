@@ -1,8 +1,15 @@
 <menu>
-    <menuitem label="Aprenda">
-      <icon>fas:book fa-fw</icon>
-      <action>LearnView</action>
+    <menuitem label="Início">
+      <icon>fas:store fa-fw</icon>
+      <action>WelcomeView</action>
       <title>Aprenda</title>
+      <mobile>Y</mobile>
+    </menuitem>
+
+    <menuitem label="SQL">
+      <icon>fas:dice fa-fw</icon>
+      <action>SQLForm</action>
+      <title>Formulário SQL</title>
       <mobile>Y</mobile>
     </menuitem>
 </menu>
