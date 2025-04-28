@@ -11,16 +11,12 @@
                 <icon>fa:hat-wizard fa-fw</icon>
                 <action>SQLForm</action>
             </menuitem>
-            
-            <menuitem label='Aprenda'>
-                <icon>fa:book fa-fw</icon>
-                <action>LearnView</action>
+
+            <menuitem label='Meus Links'>
+                <icon>fa:clipboard-user fa-fw</icon>
+                <action>MeusLinks</action>
             </menuitem>
-            
-            <menuitem label='Template'>
-                <icon>fa:desktop fa-fw</icon>
-                <action>TemplateView</action>
-            </menuitem>
+
         </menu>
     </menuitem>
     <menuitem label='Tabelas'>
@@ -52,7 +48,7 @@
     <menuitem label='Exercícios'>
         <icon>fa:dice fa-fw</icon>
         <menu>
-        
+
             <menuitem label='Primeira Questão'>
                 <icon>fa:hat-wizard fa-fw</icon>
                 <action>SQL1</action>
@@ -127,7 +123,7 @@
                 <icon>fa:cube fa-fw</icon>
                 <action>SystemModulesCheckView</action>
             </menuitem>
-            
+
             <menuitem label='Setup PHP'>
                 <icon>fa:code fa-fw</icon>
                 <action>SystemPHPInfoView</action>

@@ -1,8 +1,22 @@
 <menu>
+    <menuitem label="Início">
+      <icon>fas:store fa-fw</icon>
+      <action>WelcomeView</action>
+      <title>Agradecimento e Sobre Este Projeto</title>
+      <mobile>Y</mobile>
+    </menuitem>
+
     <menuitem label="SQL">
       <icon>fas:dice fa-fw</icon>
       <action>SQLForm</action>
       <title>Formulário de SQL</title>
+      <mobile>Y</mobile>
+    </menuitem>
+
+    <menuitem label="igorlazzaretti.com">
+      <icon>fas:clipboard-user fa-fw</icon>
+      <action>igorlazzaretti</action>
+      <title>Acesse meu Portifólio sem sair deste site</title>
       <mobile>Y</mobile>
     </menuitem>
 </menu>
